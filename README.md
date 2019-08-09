@@ -13,7 +13,7 @@ Raiz:
   
     - Arquivo de configuração para conexão com o MongoDB
 
-/transaction
+/transaction:
 
   blueprint.py
   
