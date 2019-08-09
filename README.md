@@ -3,14 +3,20 @@
 Desenvolvimento de endpoints para cada letra da sigla CRUD, utilizando Python, Flask e MongoDB
 
 Raiz:
+
   run.py
+  
     - Iniciará o flask na porta 5000 do localhost
     - Indicará ao flask a rota 'transaction' que fará parte dos endpoints
+    
   config.py
+  
     - Arquivo de configuração para conexão com o MongoDB
 
 /transaction
+
   blueprint.py
+  
     - Arquivo de blueprint para os endpoints relacionados ao controle de transações
     - Conterá um endpoint para cada letra da sigla CRUD. Sendo os caminhos:
       * transaction/insert
