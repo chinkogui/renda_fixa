@@ -38,13 +38,14 @@ Get
 }
 
 Update
+#Atributo 'Valor' alterado
 {
     "Data": "07/08/2019",
     "Hora": "20:49:00",
     "Id": "90860",
     "ContaInicial": "6022",
     "ContaFinal": "7654",
-    "Valor": 10000.00 - Valor alterado
+    "Valor": 10000.00
 }
 
 Delete
